@@ -1,0 +1,12 @@
+- Hi, I’m @juuiice
+- I’m currently a Computer Science student at College, in my 3rd year.
+- I'm looking to collaborate on projects realted to software development/game development preferably in Java or C++.
+- I have an advanced understanding of Java.
+- An intermediate understanding of C and C++.
+- A basic understanding of 80x86 ASM and Python.
+- My email is zdawg918@gmail.com if you have any questions, want to collaborate, or just want to chat!
+
+- Thank you for reading!
+- Have a good day!
+- 
+- Created: juuiice October 26th, 2022 2:33 PM
