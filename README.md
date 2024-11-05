@@ -1,5 +1,5 @@
 - Hi, I’m @juuiice
-- I’m currently a Computer Science student at College, in my 3rd year.
+- I’m a Computer Science graduate from Georgia College and State University
 - I'm looking to collaborate on projects realted to software development/game development preferably in Java or C++.
 - I have an advanced understanding of Java.
 - An intermediate understanding of C and C++.
@@ -10,3 +10,4 @@
 - Have a good day!
 - 
 - Created: juuiice October 26th, 2022 2:33 PM
+- Edited juuiice August 4th, 2024 5:54 PM
